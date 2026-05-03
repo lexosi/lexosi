@@ -19,8 +19,7 @@
 
 ### Currently working on
 - 🦀 **[screenpipe-macro](https://github.com/lexosi/screenpipe-macro)** — Rust workspace powering two products: an AI-driven personal automation macro + a local-first workplace analytics app for businesses (privacy-first alternative to Hubstaff/Time Doctor)
-- ⚡ **[token-optimizer](https://github.com/lexosi/token-optimizer)** — Rust daemon that compresses clipboard text with a local LLM before sending it to AI APIs, reducing token consumption in production
-- 🤖 Agentic workflows with Claude and local automation via OpenClaw
+- 🛠️ **[UniversalCode](https://github.com/lexosi/UniversalCode)** — Python TUI with hexagonal architecture for integrating LLMs directly into the developer workflow
 
 ---
 
@@ -34,5 +33,6 @@
 <a href="https://twitter.com/lexosi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lexosi_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lexlexosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lexlexosi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lexosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lexosi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lexosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lexosi" height="30" width="40" /></a>
 <a href="mailto:iamlexosi@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="email" height="30" width="40" /></a>
 </p>
