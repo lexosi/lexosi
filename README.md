@@ -1,38 +1,43 @@
-<h1 align="center">Hey, I'm Lex 👋</h1>
-<h3 align="center">Builder · Decision Maker · Creative Technologist</h3>
-<p align="center">
-  I started as a content creator, spent years leading teams and making product decisions in the gaming industry, and somewhere along the way I fell back in love with code. Now I build tools that sit at the intersection of AI, automation, and real workflows.
-</p>
-<p align="center">
-  Currently building <a href="https://github.com/lexosi/screenpipe-macro"><strong>screenpipe-macro</strong></a> — a Rust workspace that extends Screenpipe with AI-powered automation and workplace analytics tools.
-</p>
+# Hey, I'm Lex
+
+**I design and ship AI-native systems.** I build multi-agent orchestration with real enforcement, audit trails, and reliability layers — and I build it in public.
+
+Before code, I led technical delivery on live game events at scale: **3K+ and 65K+ concurrent players** in production, real-time, no second takes.
 
 ---
 
-### What I bring to the table
-- **Technical** — Rust, Python, JavaScript, SQL. I build things that actually run.
-- **Creative** — Photoshop, Premiere Pro, After Effects. I've shipped content at scale.
-- **Strategic** — Experience leading teams, managing clients, and making calls under pressure in the gaming industry.
-- **AI-native** — I don't just use AI tools. I build with them and on top of them.
+### What I'm building
+
+- **[multiagent-system-lex](https://github.com/lexosi/multiagent-system-lex)** — a 16-agent orchestrator designed from scratch. Hook-level enforcement (hard-block, not soft rules), anti-loop discipline (3 attempts → class-jump), and a full audit trail across 122 real runs. This is the system I dogfood daily.
+- **[guardloop](https://github.com/lexosi/guardloop)** — the reusable reliability layer extracted from that work: anti-loop and enforcement primitives for LLM-driven workflows.
+- **[uefn-mcp-server](https://github.com/lexosi/uefn-mcp-server)** — an MCP server I extended and hardened: CI matrix (3.11/3.12), split test architecture, architecture decision records, upstream PR.
+
+> The arc: extend others' tools → design my own system → extract the reusable layer. Iteration, not abandonment.
 
 ---
 
-### Currently working on
-- 🦀 **[screenpipe-macro](https://github.com/lexosi/screenpipe-macro)** — Rust workspace powering two products: an AI-driven personal automation macro + a local-first workplace analytics app for businesses (privacy-first alternative to Hubstaff/Time Doctor)
-- 🛠️ **[UniversalCode](https://github.com/lexosi/UniversalCode)** — Python TUI with hexagonal architecture for integrating LLMs directly into the developer workflow
+### How I work
+
+- **Enforcement over trust** — I deny the bad path at the hook level, I don't ask the model nicely.
+- **Probe before fix** — cheap A/B tests to isolate root cause before touching code. Empirical, not guesswork.
+- **Design before I type** — brief and decision records first, implementation second.
+
+---
+
+### Stack
+
+`Rust` · `Python` · `Java` · multi-agent orchestration (Claude Code) · MCP · AI-native systems end-to-end
 
 ---
 
 ### Languages
-🇪🇸 Spanish — Native &nbsp;|&nbsp; 🇨🇦 Catalan — Native &nbsp;|&nbsp; 🇫🇷 French — Fluent &nbsp;|&nbsp; 🇬🇧 English — Professional
+
+🇪🇸 Spanish (native) · 🇫🇷 French (fluent) · English (professional)
 
 ---
 
 ### Connect
-<p>
-<a href="https://twitter.com/lexosi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lexosi_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lexlexosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lexlexosi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lexosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lexosi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lexosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lexosi" height="30" width="40" /></a>
-<a href="mailto:iamlexosi@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="email" height="30" width="40" /></a>
-</p>
+
+[LinkedIn](https://linkedin.com/in/lexlexosi) · [X](https://x.com/lexosi_) · iamlexosi@gmail.com
+
+**Judge me by the code.**
