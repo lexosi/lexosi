@@ -8,9 +8,10 @@ Before code, I led technical delivery on live game events at scale: **3K+ and 65
 
 ### What I'm building
 
-- **[multiagent-system-lex](https://github.com/lexosi/multiagent-system-lex)** — a 16-agent orchestrator designed from scratch. Hook-level enforcement (hard-block, not soft rules), anti-loop discipline (3 attempts → class-jump), and a full audit trail across 122 real runs. This is the system I dogfood daily.
-- **[guardloop](https://github.com/lexosi/guardloop)** — the reusable reliability layer extracted from that work: anti-loop and enforcement primitives for LLM-driven workflows.
-- **[uefn-mcp-server](https://github.com/lexosi/uefn-mcp-server)** — an MCP server I extended and hardened: CI matrix (3.11/3.12), split test architecture, architecture decision records, upstream PR.
+- **[multiagent-system-lex](https://github.com/lexosi/multiagent-system-lex)** — a 19-agent orchestrator designed from scratch. Hook-level enforcement (hard-block, not soft rules), anti-loop discipline (3 attempts → class-jump), and a full audit trail across 171 documented runs. This is the system I dogfood daily.
+- **[loopward](https://github.com/lexosi/loopward)** — the reusable reliability layer extracted from that work: anti-loop and enforcement primitives for LLM-driven workflows.
+- **[uefn-mcp-server](https://github.com/lexosi/uefn-mcp-server)** — an MCP server I extended and hardened: CI matrix (3.11/3.12), split test architecture, architecture decision records, upstream PR (pending review).
+- **Write-up with the numbers:** https://dev.to/lexosi/what-advisory-rules-actually-do-in-an-agent-loop-bke
 
 > The arc: extend others' tools → design my own system → extract the reusable layer. Iteration, not abandonment.
 
