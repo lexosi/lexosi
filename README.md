@@ -1,6 +1,6 @@
 # Hey, I'm Lex
 
-**I direct live products with people inside them, and I build the systems that keep them under control.** Ten years of live game productions, communities and studios (2016-2026); since 2026, multi-agent AI systems with measured reliability, built in public.
+**I direct live products with people inside them, and I build the systems that keep them under control.** Ten years of live game productions, communities and studios (2016-2026); since January 2024, multi-agent LLM systems, the first one in production for an external client under NDA; open source and built in public since 2026.
 
 Live, at scale, no second takes: **3,000-4,000 concurrent players** on the production servers behind the live series and events I directed (2016-2025) and **65,000 concurrent players** on a Fortnite island I led (2024).
 
